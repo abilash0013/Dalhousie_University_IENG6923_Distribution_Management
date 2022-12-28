@@ -32,7 +32,7 @@ def test1():
             import urllib.parse
             origin = urllib.parse.quote(loc)
             dest = urllib.parse.quote(loc2)
-            url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins="+origin+"&destinations="+dest+"&key=AIzaSyAmhicKS1aPOYS21E8tTMx3ovkJtyPpI_s"
+            url = "***"
 
             payload = {}
             headers = {}
